@@ -1,0 +1,28 @@
+# Binaries
+/target/
+**/*.rs.bk
+
+# Executables
+*.exe
+*.out
+*.o
+*.rlib
+
+# Backup and temp files
+*.log
+*.tmp
+*.swp
+*.swo
+*~
+
+# IDEs and editors
+/.idea/
+/.vscode/
+/*.code-workspace
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Cargo-specific
+Cargo.lock
